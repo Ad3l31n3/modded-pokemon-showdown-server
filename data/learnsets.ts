@@ -27733,6 +27733,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			waterpulse: ["9M"],
 			yawn: ["9L21"],
 			zenheadbutt: ["9M"],
+			banefulbunker: ["9L0"],
 		},
 	},
 	murkrow: {
